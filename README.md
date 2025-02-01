@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm nour</h1>
 <h3 align="center">I'm currently minoring in Business Information Systems and working as a student trainee for software development on the side :)</h3>
 
-🔭 I’m currently working on **two spring boot projects!**
+🔭 I’m currently working on **two spring projects!**
 
 🌱 I’m currently learning **React**
 
