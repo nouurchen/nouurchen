@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning **Typescript**
 
-📫 How to reach me **nourbatniji@gmail.com**
+📫 How to reach me **nour@batniji.com**
 
 ⚡ Fun fact **my profile pic shows my lovely cat kiwi (he likes to sit on my laptop)**
 
